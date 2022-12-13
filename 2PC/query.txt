@@ -1,0 +1,1 @@
+update account set bal = 5000 where accno = 1
